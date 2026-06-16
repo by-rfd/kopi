@@ -1,0 +1,6 @@
+{
+  "name": "RFD Kopi",
+  "description": "Aplikasi kalkulator dan panduan resep kopi kafe interaktif dengan penyesuaian ukuran cup, tingkat kemanisan, kadar kafein, es, dan metode penyeduhan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
